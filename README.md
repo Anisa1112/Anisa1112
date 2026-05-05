@@ -10,4 +10,4 @@ Feel free to check out some of my repositories — you might find something inte
 If you want to know more about me, feel free to visit my [LinkedIn](www.linkedin.com/in/anisanurfitri) profile.
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anisa1112&show_icons=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anisa1112&show_icons=true)
