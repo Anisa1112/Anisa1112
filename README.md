@@ -8,3 +8,6 @@ I’m passionate about building useful systems, exploring new technologies, and 
 Feel free to check out some of my repositories — you might find something interesting!
 
 If you want to know more about me, feel free to visit my [LinkedIn](www.linkedin.com/in/anisanurfitri) profile.
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Anisa1112=Anisa1112&show_icons=true&theme=default)
