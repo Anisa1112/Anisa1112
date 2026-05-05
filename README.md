@@ -7,7 +7,7 @@ I’m passionate about building useful systems, exploring new technologies, and 
 
 Feel free to check out some of my repositories — you might find something interesting!
 
-If you want to know more about me, feel free to visit my [LinkedIn](www.linkedin.com/in/anisanurfitri) profile.
+If you want to know more about me, feel free to visit my [LinkedIn]([www.linkedin.com/in/anisanurfitri](https://www.linkedin.com/in/anisanurfitri/)) profile.
 
 ## GitHub Activity
 ![GitHub Streak](https://streak-stats.demolab.com?user=Anisa1112&theme=tokyonight)
