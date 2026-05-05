@@ -11,3 +11,9 @@ If you want to know more about me, feel free to visit my [LinkedIn](www.linkedin
 
 ## GitHub Activity
 ![GitHub Streak](https://streak-stats.demolab.com?user=Anisa1112&theme=tokyonight)
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,php,laravel,mysql,opencv,git" />
+</p>
