@@ -9,5 +9,5 @@ Feel free to check out some of my repositories — you might find something inte
 
 If you want to know more about me, feel free to visit my [LinkedIn](www.linkedin.com/in/anisanurfitri) profile.
 
-## GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Anisa1112)
+## GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com?user=Anisa1112&theme=tokyonight)
