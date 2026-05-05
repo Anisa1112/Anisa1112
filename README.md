@@ -15,5 +15,5 @@ If you want to know more about me, feel free to visit my [LinkedIn](www.linkedin
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,php,laravel,mysql,opencv,git" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,laravel,mysql,opencv,git,tableau" />
 </p>
